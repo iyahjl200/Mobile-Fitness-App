@@ -1,0 +1,26 @@
+{
+  "name": "4810-kijdkv",
+  "version": "1.0.0",
+  "description": "A feature-rich mobile application that offers personalized workout plans, fitness tracking, and nutrition guidance to help users achieve their health and wellness goals.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iyahjl200/Mobile-Fitness-App.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "iyahjl200",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
